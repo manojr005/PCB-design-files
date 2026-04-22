@@ -95,4 +95,12 @@ The system is based on **destructive interference**:
 Electronics and Communication Engineering
 
 ---
+Top Layer Layout
+<img width="646" height="716" alt="image" src="https://github.com/user-attachments/assets/debcce1d-d68a-4466-a2d9-4322be90dee4" />
+
+Bottom Layer Layout
+
+<img width="569" height="688" alt="image" src="https://github.com/user-attachments/assets/6c56b42c-d935-4202-ad99-918be46e8784" />
+
+
 
